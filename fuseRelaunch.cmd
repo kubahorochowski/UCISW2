@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/Users/kubah/Documents/GitHub/UCISW/UCISW2PROJEKT/i2c_use_i2c_use_sch_tb_isim_beh.exe" -prj "C:/Users/kubah/Documents/GitHub/UCISW/UCISW2PROJEKT/i2c_use_i2c_use_sch_tb_beh.prj" "work.i2c_use_i2c_use_sch_tb" 

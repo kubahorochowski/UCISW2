@@ -1,0 +1,4 @@
+vhdl work "I2C_Master.vhd"
+vhdl work "BlackBox.vhd"
+vhdl work "i2c_use.vhf"
+vhdl work "TestAdxl.vhd"
